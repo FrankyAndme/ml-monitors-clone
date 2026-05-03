@@ -29,7 +29,7 @@ Crear una réplica visual de 10 artículos de monitores LED de Mercado Libre, ev
 - **Entregable:** Web funcional con datos reales extraídos.
 
 ### Fase 4: Implementación de Base de Datos
-- [ ] Tarea 4.1: Configurar MongoDB.
+- [ ] Tarea 4.1: Configurar MongoDB (En espera de entorno/acceso).
 - [ ] Tarea 4.2: Migración JSON $\rightarrow$ MongoDB.
-- [ ] Tarea 4.3: API (Node.js/Express o Python/FastAPI).
+- [x] Tarea 4.3: API (Implementada versión inicial con FastAPI y JSON fallback).
 - **Entregable:** Aplicación Full-Stack.
