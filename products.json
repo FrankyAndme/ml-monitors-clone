@@ -1,32 +1,37 @@
 [
     {
         "title": "Monitor Gamer Curvo 27\" Full HD RGB 165Hz DisplayPort",
-        "price": "429.999",
+        "price": 429999,
         "link": "https://articulo.mercadolibre.com.ar/MLA-123456789-monitor-gamer-curvo-27",
-        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=500&q=80"
+        "image": "https://images.unsplash.com/photo-1527443297556-577ef998d96a?auto=format&fit=crop&w=500&q=80",
+        "tags": ["FULL", "Envío Gratis"]
     },
     {
         "title": "Monitor Gamer MSI MAG 255F E20 25\" Full HD 200Hz",
-        "price": "264.999",
+        "price": 264999,
         "link": "https://articulo.mercadolibre.com.ar/MLA-234567890-monitor-msi-mag-255f",
-        "image": "https://images.unsplash.com/photo-1527443297556-577ef998d96a?auto=format&fit=crop&w=500&q=80"
+        "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=500&q=80",
+        "tags": ["FULL"]
     },
     {
         "title": "Monitor Gadnic LED 19\" Full HD 75Hz HDMI/VGA",
-        "price": "178.599",
+        "price": 178599,
         "link": "https://articulo.mercadolibre.com.ar/MLA-345678901-monitor-gadnic-19",
-        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=500&q=80"
+        "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=500&q=80",
+        "tags": ["Envío Gratis"]
     },
     {
         "title": "Monitor LED Gadnic 24\" IPS Full HD 100Hz",
-        "price": "203.449",
+        "price": 203449,
         "link": "https://articulo.mercadolibre.com.ar/MLA-456789012-monitor-gadnic-24",
-        "image": "https://images.unsplash.com/photo-1587829741301-dc798cf8353a?auto=format&fit=crop&w=500&q=80"
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798cf8353a?auto=format&fit=crop&w=500&q=80",
+        "tags": ["FULL", "Envío Gratis"]
     },
     {
         "title": "Monitor LED HP P204 19.5\" HDMI",
-        "price": "155.000",
+        "price": 155000,
         "link": "https://articulo.mercadolibre.com.ar/MLA-567890123-monitor-hp-p204",
-        "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=500&q=80"
+        "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=500&q=80",
+        "tags": []
     }
 ]
