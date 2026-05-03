@@ -12,20 +12,20 @@ Crear una réplica visual de 10 artículos de monitores LED de Mercado Libre, ev
 ## 🚀 Hoja de Ruta
 
 ### Fase 1: Extracción de Datos (Scraping)
-- [ ] Tarea 1.1: Identificar URL de la categoría "Monitores LED".
-- [ ] Tarea 1.2: Script de scraping (Título, Precio, Imagen, Descripción, Calificación) para 10 artículos.
-- [ ] Tarea 1.3: Generar `products.json`.
+- [x] Tarea 1.1: Identificar URL de la categoría "Monitores LED".
+- [x] Tarea 1.2: Script de scraping (Título, Precio, Imagen, Descripción, Calificación) para 10 artículos.
+- [x] Tarea 1.3: Generar `products.json`.
 - **Entregable:** Script + JSON.
 
 ### Fase 2: Desarrollo del Frontend (Hardcoded)
-- [ ] Tarea 2.1: Estructura HTML de listado (estilo ML).
-- [ ] Tarea 2.2: CSS profesional y Responsive.
-- [ ] Tarea 2.3: Vista de Detalle del Producto.
+- [x] Tarea 2.1: Estructura HTML de listado (estilo ML).
+- [x] Tarea 2.2: CSS profesional y Responsive.
+- [x] Tarea 2.3: Vista de Detalle del Producto.
 - **Entregable:** Prototipo HTML/CSS estático.
 
 ### Fase 3: Integración de Datos Estáticos
-- [ ] Tarea 3.1: JS para renderizar `products.json` en el HTML.
-- [ ] Tarea 3.2: Navegación dinámica Listado $\rightarrow$ Detalle.
+- [x] Tarea 3.1: JS para renderizar `products.json` en el HTML.
+- [x] Tarea 3.2: Navegación dinámica Listado $\rightarrow$ Detalle.
 - **Entregable:** Web funcional con datos reales extraídos.
 
 ### Fase 4: Implementación de Base de Datos

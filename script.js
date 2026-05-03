@@ -4,12 +4,12 @@ async function loadProducts() {
         const products = await response.json();
         const grid = document.getElementById('product-grid');
         
-        grid.innerHTML = products.map(product => `
+        grid.innerHTML = products.map((product, index) => `
             <div class="product-card">
                 <img src="${product.image}" alt="${product.title}" class="product-image">
                 <div class="product-info">
                     <div class="product-price">$ ${product.price}</div>
-                    <a href="${product.link}" target="_blank" class="product-title">${product.title}</a>
+                    <a href="detail.html?id=${index}" class="product-title">${product.title}</a>
                 </div>
             </div>
         `).join('');
