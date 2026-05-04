@@ -10,6 +10,8 @@ def scrape_ml_monitors():
     
     print(f"Fetching {url}...")
     response = requests.get(url, headers=headers)
+    print(f"Status: {response.status_code}")
+    print(f"Content start: {response.text[:500]}")
     if response.status_code != 200:
         print(f"Failed to fetch page: {response.status_code}")
         return []
